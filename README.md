@@ -7,3 +7,8 @@ MovieApp adalah aplikasi yang digunakan untuk melihat daftar Film. Aplikasi ini 
 <ol>User Defaults, yaitu framework dari Apple yang digunakan untuk menyimpan data ke local</ol>
 
 Adapun tampilan aplikasi yang dapat dilihat di bawah ini:
+
+![Sin titulo](https://github.com/danianggara/MovieApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Dani%20-%202024-08-16%20at%2012.37.02.png))
+![Sin titulo](https://github.com/danianggara/MovieApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Dani%20-%202024-08-16%20at%2012.37.06.png))
+![Sin titulo](https://github.com/danianggara/MovieApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Dani%20-%202024-08-16%20at%2012.37.10.png))
+![Sin titulo](https://github.com/danianggara/MovieApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Dani%20-%202024-08-16%20at%2012.37.29.png))
